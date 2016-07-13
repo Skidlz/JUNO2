@@ -1,0 +1,23 @@
+[NAME]Ä          F1:Load    ] Roland à Juno Editor [       By Zack Nelson 2016
+[OSC]ÂÄDCO OCT      =     <4               DCO LFO  AMT =    Þ<128            Ý
+     ³ DCO ENV AMT  =    Þ<128            ÝDCO AFTR AMT =    Þ<16             Ý
+     ³ DCO ENV MODE =      0=Norm/1=Inv/2=Dyn/3=Inv-dyn
+     ³ DCO BEND RNG =    Þ<13             Ý
+     ³ PULSE        =      0=Off/1=Square/2=Half/3=PWM
+     ³ SAWTOOTH     =      0=Off/1=Saw/2=Half/3=PWM/4-5=Fingers
+     ³ SUB WAVE     =      0=Square/1=Half/2=Chop/3=Fingers/4-5=-2octv
+     ³ SUB VOL      =     <4               NOIS VOL     =     <4               
+     ÀÄPWM AMT      =    Þ<128            ÝPWM RATE     =    Þ<128            Ý
+[LFO]ÄÄLFO RATE     =    Þ<128            ÝLFO DELAY    =    Þ<128            Ý
+[VCF]ÂÄHPF FREQ     =      0=LowEmph/1=Flat/2=LowCut/3=Higher
+     ³ VCF FREQ     =    Þ<128            ÝVCF RES      =    Þ<128            Ý
+     ³ VCF ENV AMT  =    Þ<128            ÝVCF LFO  AMT =    Þ<128            Ý
+     ³ VCF KEY AMT  =    Þ<128            ÝVCF AFTR AMT =    Þ<128            Ý
+     ÀÄVCF ENV MODE =      0=Normal/1=Inverted/2=NormDyn/3=GateDyn
+[VCA]ÂÄVCA VOL      =    Þ<128            ÝVCA AFTR AMT =    Þ<16             Ý
+     ÀÄVCA ENV MODE =      0=Normal/1=Gate/2=NormDyn/3=GateDyn
+[CRS]ÄÄCHORUS ON    =     <2               CHORUS RATE  =    Þ<128            Ý
+[ENV]ÂÄATTACK  TIME =    Þ<128            ÝATTACK  LVl  =    Þ<128            Ý
+     ³ BREAK   TIME =    Þ<128            ÝBREAK   LVL  =    Þ<128            Ý
+     ³ DECAY   TIME =    Þ<128            ÝSUSTAIN LVl  =    Þ<128            Ý
+     ÀÄRELEASE TIME =    Þ<128            ÝENV KEYBOARD =    Þ<16             Ý
