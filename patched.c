@@ -145,7 +145,7 @@ edval(int numel, struct selement *scrn,
 				case KUP:	/* inc */
 					numFlg = 0; /* not entering a number */
 					key = scrn[pick].key;
-					val = (param[key] > (param[key] + 8)%ajscrn[key].max)? ajscrn[key].max: param[key] + 8;
+					val = ((param[key] + 8) > ajscrn[key].max)? ajscrn[key].max: param[key] + 8;
 					if(val != param[key]){
 						sendparam(key, val); /* send over midi */
 						param[key] = val;
